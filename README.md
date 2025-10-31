@@ -60,7 +60,7 @@ AI-aided decision making • Data analysis • Systems engineering • Collabora
 | Project | Description |
 |--------|-------------|
 | **IPTV Network Simulation (GNS3)** | Complete ISP-style IPTV network using Cisco routers, Multicast (PIM), OSPF, NAT, ACLs, DHCP, and QoS |
-
+| **Secure Server** |  Linux server hardening project featuring an iptables firewall, SSH security, Fail2Ban, sshttp multiplexing, DNS over TLS, and WordPress deployment with Nginx and HTTP/3 support.|
 *(More projects will be added as this portfolio grows)*
 
 ---
