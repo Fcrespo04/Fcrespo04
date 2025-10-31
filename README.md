@@ -4,12 +4,6 @@ I am a **Computer Engineering** student at the [Polytechnic Institute of Leiria]
 
 I am passionate about **machine learning, networking, cybersecurity, cloud systems, and software development**, always learning through hands-on projects and real-world experimentation.
 
----
-
-## 🧑‍💻 About Me
-
-I enjoy building solutions that bridge **network engineering**, **systems administration & security**, and **software development**.
-
 I value:
 
 - Teamwork & communication  
@@ -19,7 +13,7 @@ I value:
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills & Tools
 
 ### 💻 Programming
 `Python` • `C` • `C#` • `Java` • `JavaScript (Vue.js)` • `PHP` • `HTML/CSS`
